@@ -29,17 +29,22 @@ Retrospectively, I've learned a lot about concise appropriate documentation/desi
 ## Usage
 
 Startup
-![startup](images/00_startUp.png)
+
+![startup](images/00_startUp.PNG)
 
 Correct selection
-![correct selection](images/01_correctSelection.png)
+
+![correct selection](images/01_correctSelection.PNG)
 
 Incorrect selection
-![incorrect selection](images/02_incorrectSelection.png)
+
+![incorrect selection](images/02_incorrectSelection.PNG)
 
 Exercise completed
-![exercise completed](images/03_complete.png)
+
+![exercise completed](images/03_complete.PNG)
 
 Menu selection
+
 ![menu selection](images/04_menuSelection.png)
 
