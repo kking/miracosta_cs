@@ -178,9 +178,7 @@ public class AVLTree<E extends Comparable<E>> extends BinarySearchTreeWithRotate
      * Method called following an insertion into a node's left subtree in order to decrement the
      * balance of said node.
      *
-     * p 488
-     *
-     * @param node
+     * @param node The current node in this tree
      */
     private void decrementBalance(AVLNode<E> node) {
         // Decrement the balance.
@@ -198,7 +196,6 @@ public class AVLTree<E extends Comparable<E>> extends BinarySearchTreeWithRotate
             // If now balanced, overall height has not increased.
             increase = false;
         }
-        // ???
     }
 
     /**
