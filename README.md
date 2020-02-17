@@ -1,5 +1,6 @@
-# MCC-CS
-Samples of work from Computer Science courses taken at MiraCosta College, Fall 2017 through Spring 2019.
+# miracosta_cs
+
+Samples of work from Computer Science courses taken at MiraCosta College, Fall 2017 through Spring 2020.
 
 | Term | Course | Title |
 | :--- | :--- | :--- |
@@ -8,3 +9,4 @@ Samples of work from Computer Science courses taken at MiraCosta College, Fall 2
 | Fall 2018 | CS 150 | C++ Programming |
 | Fall 2018 | CS 292 | Internship Studies |
 | Spring 2019 | CS 220 | Computer Architecture and Assembly Language |
+| Spring 2020 | CS 134 | Mobile Device Application Development |
